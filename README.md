@@ -5,7 +5,7 @@
 
 * If you have any problems while executing, don't forget give permissions.
 ```
-chmod 700 the1 
+chmod 700 THE1 
 ```
 * If you want to use it via python:
 ```
