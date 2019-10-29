@@ -9,7 +9,7 @@ chmod 700 THE1
 ```
 * If you want to use it via python:
 ```
-python3 the1.py 
+python3 THE1.py 
 ```
 
 Thanks! 
